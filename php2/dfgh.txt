@@ -1,0 +1,10 @@
+palette fard à paupiéres,12,2000
+illuminateur,20,3500
+beauty blender,61,2500
+fixateur,5,5000,
+eyeliner,12,2000,
+kit pinceaux,8,6000,
+crayons,50,500,
+fond de teint,9,7000,
+rouge à lévres,30,4000,
+poudre matifiant,6,9000,

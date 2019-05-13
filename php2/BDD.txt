@@ -1,0 +1,5 @@
+seynabou,seyna1,nabou123,admin,grand dakar,7764565554,actif,
+coumba,coumba1,coumba123,user_simple,castor,774250201,actif,
+astou,astou1,astou123,user_simple,hlm,776525425,actif,
+diéne,diéne1,diéne123,user_simple,yeumbeul,235455454,inactif,
+ndioufa,ndioufa1,ndioufa123,admin,bopp,778555522,actif,
